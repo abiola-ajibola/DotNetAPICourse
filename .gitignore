@@ -463,3 +463,5 @@ $RECYCLE.BIN/
 /5-APIAdvanced/23-DotnetAPI_SkipActivity
 /5-APIAdvanced/24-DotnetAPI_LogRequestFailure
 /SQLScripts/ActivityLog.sql
+
+Local/**/*.sln
