@@ -22,24 +22,24 @@ namespace HelloWorld.Data
             dbConnection = new SqlConnection(_connectionString);
         }
 
-        public IEnumerable<T> LoadData<T>(string query)
+        public IEnumerable<T> LoadData<T>(string query, object? parameters = null)
         {
-            return dbConnection.Query<T>(query);
+            return dbConnection.Query<T>(query, parameters);
         }
 
-        public T LoadSingle<T>(string query)
+        public T LoadSingle<T>(string query, object? parameters = null)
         {
-            return dbConnection.QuerySingle<T>(query);
+            return dbConnection.QuerySingle<T>(query, parameters);
         }
 
-        public int ExecuteSqlWithRowCount(string query)
+        public int ExecuteSqlWithRowCount(string query, object? parameters = null)
         {
-            return dbConnection.Execute(query);
+            return dbConnection.Execute(query, parameters);
         }
 
-        public bool ExecuteSql(string query)
+        public bool ExecuteSql(string query, object? parameters = null)
         {
-            return dbConnection.Execute(query) > 0;
+            return dbConnection.Execute(query, parameters) > 0;
         }
     }
 }
