@@ -7,7 +7,7 @@ namespace HelloWorld.Data
     class DataContextDapper
     {
         private readonly IDbConnection dbConnection;
-        private string? _connectionString;
+        private readonly string? _connectionString;
         public DataContextDapper(IConfiguration config)
         {
             // 1. Create a connection

@@ -1,3 +1,5 @@
+// Learn more about web apis here: https://learn.microsoft.com/en-us/aspnet/web-api/
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddCors((options) => // https://learn.microsoft.com/en-us/aspnet/core/security/cors?view=aspnetcore-9.0
     {

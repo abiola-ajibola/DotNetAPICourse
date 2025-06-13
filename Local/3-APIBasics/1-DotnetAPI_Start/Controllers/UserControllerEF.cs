@@ -49,6 +49,8 @@ public class UserControllerEF : ControllerBase
     }
 
     [HttpPut("editUser")]
+    // https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/parameter-binding?view=aspnetcore-9.0
+    // This explains how different parameters are bound
     public IActionResult EditUser(User user)
     {
         User? userDb = _context.Users
