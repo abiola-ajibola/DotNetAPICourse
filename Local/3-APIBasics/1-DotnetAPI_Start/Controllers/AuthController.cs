@@ -14,6 +14,7 @@ namespace DotnetAPI.Controllers
     public class AuthController(IConfiguration config) : ControllerBase
     {
         private readonly DataContextDapper _context = new(config);
+        private readonly AuthHelper _authHelper = new(config);
         private readonly Mapper _mapper = new(new MapperConfiguration(cfg =>
         {
             cfg.CreateMap<UserForRegistrationDto, UserForLoginDto>();
@@ -49,8 +50,7 @@ namespace DotnetAPI.Controllers
             } */
             // OR using PasswordHasher
             /////////////////////////////
-            Console.WriteLine("AUTH:\t" + authDetails.PasswordHash);
-            if (!VerifyPassword(loginData, loginData.Password, authDetails.PasswordHash))
+            if (!_authHelper.VerifyPassword(loginData, loginData.Password, authDetails.PasswordHash))
             {
                 return BadRequest(new { message = "Incorrect email or password" });
             }
@@ -92,10 +92,10 @@ namespace DotnetAPI.Controllers
             byte[] passwordHash = GetPasswordHash(userData.Password, passwordSalt);
             */
             /////////////////////////////////////////////////////////////////////
-            
+
             /// OR
             UserForLoginDto user = _mapper.Map<UserForLoginDto>(userData);
-            string passwordHash = GetPasswordHash2(user, userData.Password);
+            string passwordHash = _authHelper.GetPasswordHash2(user, userData.Password);
 
             // 3. Insert into Auth table
             /* 
