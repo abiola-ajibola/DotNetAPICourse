@@ -10,6 +10,7 @@
   <ItemGroup>
     <PackageReference Include="automapper" Version="14.0.0" />
     <PackageReference Include="Dapper" Version="2.1.66" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.6" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.5" />
     <PackageReference Include="microsoft.data.sqlclient" Version="6.0.2" />
     <PackageReference Include="microsoft.entityframeworkcore" Version="9.0.5" />
