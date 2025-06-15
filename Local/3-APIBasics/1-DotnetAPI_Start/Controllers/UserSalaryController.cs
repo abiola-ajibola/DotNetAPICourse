@@ -4,13 +4,14 @@
 using DotnetAPI.Dtos;
 using DotnetAPI.Models;
 using HelloWorld.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DotnetAPI.Controllers;
 
 [ApiController]
 // [Route("[controller]")] // makes the endpoint of the controller to be /Users, from the name of the controller i.e WeatherForecastController.
-[Route("usersSalary")] // defines what the name of the route is. Does not depend on the name of the controller
+[Route("usersSalary"), Authorize] // defines what the name of the route is. Does not depend on the name of the controller
 // see: https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/routing?view=aspnetcore-9.0
 // see: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/routing?view=aspnetcore-9.0
 public class UserSalaryController(IConfiguration config) : ControllerBase // http://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.controllerbase?view=aspnetcore-9.0

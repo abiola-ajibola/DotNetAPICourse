@@ -2,12 +2,13 @@ using AutoMapper;
 using DotnetAPI.Data;
 using DotnetAPI.Dtos;
 using DotnetAPI.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DotnetAPI.Controllers;
 
 [ApiController]
-[Route("usersEF")]
+[Route("usersEF"), Authorize]
 public class UserControllerEF : ControllerBase
 {
     private readonly DataContextEF _context;
