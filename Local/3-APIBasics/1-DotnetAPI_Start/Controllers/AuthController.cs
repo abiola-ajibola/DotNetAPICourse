@@ -1,14 +1,20 @@
 using System.ComponentModel.DataAnnotations;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
 using System.Text;
 using AutoMapper;
 using DotnetAPI.Dtos;
+using DotnetAPI.Helpers;
 using HelloWorld.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Cryptography.KeyDerivation;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 
 namespace DotnetAPI.Controllers
 {
+    [Authorize] // Controller level authorization
     [ApiController]
     [Route("/auth")]
     public class AuthController(IConfiguration config) : ControllerBase
@@ -20,7 +26,7 @@ namespace DotnetAPI.Controllers
             cfg.CreateMap<UserForRegistrationDto, UserForLoginDto>();
         }));
 
-        [HttpPost("login")]
+        [HttpPost("login"), AllowAnonymous]
         public IActionResult Login(UserForLoginDto loginData)
         {
             // 1. Get the user by email from Auth table
@@ -56,12 +62,17 @@ namespace DotnetAPI.Controllers
             }
             //////////////////////////////
             // 3. Respond with user information if password is correct
-            Console.WriteLine("Login");
-            Console.WriteLine(loginData);
-            return Ok(new { loginData.Email });
+
+            string getUserIdQuery = @"
+            SELECT [userId] FROM TutorialAppSchema.Users
+            WHERE Email = @Email
+            ";
+            int userId = _context.LoadSingle<int>(getUserIdQuery, new { loginData.Email });
+            Console.WriteLine("UserId => " + userId);
+            return StatusCode(200, new { token = _authHelper.CreateToken(userId) });
         }
 
-        [HttpPost("register", Name = "register")]
+        [HttpPost("register", Name = "register"), AllowAnonymous]
         public IActionResult Register(UserForRegistrationDto userData)
         {
             Console.WriteLine(userData);
@@ -117,7 +128,7 @@ namespace DotnetAPI.Controllers
 
             ////// ALTERNATIVELY
             /////////////////////
-            
+
             string insertIntoAuthQuery = @"
             INSERT INTO TutorialAppSchema.Auth2 
             (
@@ -159,38 +170,20 @@ namespace DotnetAPI.Controllers
             {
                 throw new Exception("Could not register User");
             }
-            return CreatedAtRoute("register", new { message = "User created successfully" });
+            return StatusCode(201, new { message = "User created successfully" });
 
         }
 
-        private byte[] GetPasswordHash(string password, byte[] passwordSalt)
+        [HttpGet("refreshToken")]
+        public IActionResult RefreshToken()
         {
-            // Why not use passwordHasher, which is recommended?
-            // see: https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.passwordhasher-1?view=aspnetcore-9.0
-            string passwordSaltPlusString = config.GetSection("AppSettings:PasswordKey").Value +
-                Convert.ToBase64String(passwordSalt);
+            string userIdSql = @"
+                SELECT UserId FROM TutorialAppSchema.Users WHERE UserId = '" +
+                User.FindFirst("userId")?.Value + "'";
 
-            byte[] hash = KeyDerivation.Pbkdf2(
-                password: password,
-                salt: Encoding.ASCII.GetBytes(passwordSaltPlusString),
-                prf: KeyDerivationPrf.HMACSHA256,
-                iterationCount: 1000000,
-                numBytesRequested: 256 / 8
-            );
-            Console.WriteLine("Hash => " + hash);
-            return hash;
-        }
+            int userId = _context.LoadSingle<int>(userIdSql);
 
-        private static string GetPasswordHash2(UserForLoginDto user, string password)
-        {
-            var hasher = new PasswordHasher<UserForLoginDto>();
-            return hasher.HashPassword(user, password);
-        }
-
-        private static bool VerifyPassword(UserForLoginDto user, string password, string hash)
-        {
-            var hasher = new PasswordHasher<UserForLoginDto>();
-            return hasher.VerifyHashedPassword(user, hash, password) == PasswordVerificationResult.Success;
+            return StatusCode(200, new { token = _authHelper.CreateToken(userId) });
         }
     }
 }
