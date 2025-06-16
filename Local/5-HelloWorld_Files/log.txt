@@ -1,0 +1,784 @@
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM
+        ID	          Board	Cores   Wifi    LTE          Price	          Video Card	        Release Date
+         3	   Sample Board    8   True   True       998.7200	             GeForce	1/1/2022 12:00:00 AM
+         5	 Sample Board_2   12   True  False       800.0000	     GeFoce RTX 5080	1/1/2002 12:00:00 AM
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
+         7	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         8	       MPG Z890    4   True  False      1200.5500	            RTX 2060	5/2/2023 12:00:00 AM
+         9	      MPG X870E   16   True  False      1200.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        10	     PRO Z890-P   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:54:10 PM
+        11	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	5/28/2025 1:01:24 PM
+        12	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        13	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        14	 PRO Z890-P UTC   16   True  False      1000.6000	            RTX 2060	 5/2/2023 2:30:00 PM
+        16	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 2:30:00 PM
+        17	 PRO Z890-P UTC   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        18	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        19	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+        20	PRO Z890-P US_G   16   True  False      1000.5500	            RTX 2060	 5/2/2023 3:30:00 PM
+      1002	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1003	      MPG B860I   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1004	       MAG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1005	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1006	       MEG Z890   16   True  False      1500.5500	            RTX 2060	 5/2/2025 3:30:00 PM
+      1007	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1008	       MEG Z890   16   True  False      1500.5500	            RTX 3060	 5/2/2025 3:30:00 PM
+      1009	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1010	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:30:00 PM
+      1011	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:44:11 PM
+      1012	       MEG Z890   16   True  False      1500.5500	            RTX 4060	 5/2/2025 3:02:02 PM

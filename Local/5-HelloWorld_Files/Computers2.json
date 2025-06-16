@@ -1,0 +1,242 @@
+[
+  {
+    "computerId": 1,
+    "motherboard": "Edgepulse",
+    "hasWifi": false,
+    "hasLTE": true,
+    "releaseDate": "2013-04-20",
+    "videoCard": "Morar Inc"
+  },
+  {
+    "computerId": 2,
+    "motherboard": "Teklist",
+    "hasWifi": false,
+    "hasLTE": true,
+    "releaseDate": "2019-04-08",
+    "videoCard": "Waters-Hudson"
+  },
+  {
+    "computerId": 3,
+    "motherboard": "Oyoloo",
+    "hasWifi": true,
+    "hasLTE": true,
+    "releaseDate": "2018-01-05",
+    "videoCard": "Jacobs, Grimes and Maggio"
+  },
+  {
+    "computerId": 4,
+    "motherboard": "Camido",
+    "hasWifi": false,
+    "hasLTE": true,
+    "releaseDate": "2017-10-02",
+    "videoCard": "Yundt, Tillman and Lynch"
+  },
+  {
+    "computerId": 5,
+    "motherboard": "Photobug",
+    "hasWifi": false,
+    "hasLTE": true,
+    "releaseDate": "2014-05-15",
+    "videoCard": "Zboncak Group"
+  },
+  {
+    "computerId": 6,
+    "motherboard": "Edgewire",
+    "hasWifi": false,
+    "hasLTE": false,
+    "releaseDate": "2014-07-02",
+    "videoCard": "Windler Group"
+  },
+  {
+    "computerId": 7,
+    "motherboard": "Tagopia",
+    "hasWifi": false,
+    "hasLTE": true,
+    "releaseDate": "2014-03-10",
+    "videoCard": "Cole Group"
+  },
+  {
+    "computerId": 8,
+    "motherboard": "Oyope",
+    "hasWifi": true,
+    "hasLTE": false,
+    "releaseDate": "2012-01-06",
+    "videoCard": "Rosenbaum Group"
+  },
+  {
+    "computerId": 9,
+    "motherboard": "Browsecat",
+    "hasWifi": true,
+    "hasLTE": true,
+    "releaseDate": "2021-02-12",
+    "videoCard": "Osinski and Sons"
+  },
+  {
+    "computerId": 10,
+    "motherboard": "Youtags",
+    "hasWifi": true,
+    "hasLTE": true,
+    "releaseDate": "2019-02-15",
+    "videoCard": "Muller Inc"
+  },
+  {
+    "computerId": 11,
+    "motherboard": "Reallinks",
+    "hasWifi": false,
+    "hasLTE": false,
+    "releaseDate": "2013-07-09",
+    "videoCard": "Stracke, Wolff and Runte"
+  },
+  {
+    "computerId": 12,
+    "motherboard": "Plajo",
+    "hasWifi": false,
+    "hasLTE": true,
+    "releaseDate": "2014-08-20",
+    "videoCard": "Glover and Sons"
+  },
+  {
+    "computerId": 13,
+    "motherboard": "Ooba",
+    "hasWifi": true,
+    "hasLTE": false,
+    "releaseDate": "2014-05-29",
+    "videoCard": "Brekke-Goyette"
+  },
+  {
+    "computerId": 14,
+    "motherboard": "Gabtype",
+    "hasWifi": false,
+    "hasLTE": false,
+    "releaseDate": "2014-06-16",
+    "videoCard": "Ernser, Barton and Stokes"
+  },
+  {
+    "computerId": 15,
+    "motherboard": "Tekfly",
+    "hasWifi": false,
+    "hasLTE": false,
+    "releaseDate": "2014-10-13",
+    "videoCard": "Berge, Muller and Kemmer"
+  },
+  {
+    "computerId": 16,
+    "motherboard": "Realmix",
+    "hasWifi": false,
+    "hasLTE": false,
+    "releaseDate": "2016-05-06",
+    "videoCard": "Grady-Bartell"
+  },
+  {
+    "computerId": 17,
+    "motherboard": "Twiyo",
+    "hasWifi": true,
+    "hasLTE": true,
+    "releaseDate": "2010-12-31",
+    "videoCard": "Thompson-Bernhard"
+  },
+  {
+    "computerId": 18,
+    "motherboard": "Skiptube",
+    "hasWifi": false,
+    "hasLTE": true,
+    "releaseDate": "2019-07-24",
+    "videoCard": "Cruickshank, Hackett and Corkery"
+  },
+  {
+    "computerId": 19,
+    "motherboard": "Gabcube",
+    "hasWifi": true,
+    "hasLTE": true,
+    "releaseDate": "2015-03-20",
+    "videoCard": "Robel-O'Hara"
+  },
+  {
+    "computerId": 20,
+    "motherboard": "Dynazzy",
+    "hasWifi": false,
+    "hasLTE": false,
+    "releaseDate": null,
+    "videoCard": "Konopelski-Beatty"
+  },
+  {
+    "computerId": 21,
+    "motherboard": "Youfeed",
+    "hasWifi": false,
+    "hasLTE": false,
+    "releaseDate": "2017-01-17",
+    "videoCard": "Ortiz and Sons"
+  },
+  {
+    "computerId": 22,
+    "motherboard": "Trilith",
+    "hasWifi": false,
+    "hasLTE": true,
+    "releaseDate": "2013-01-12",
+    "videoCard": "Franecki, Braun and Kutch"
+  },
+  {
+    "computerId": 23,
+    "motherboard": "Twitterbeat",
+    "hasWifi": true,
+    "hasLTE": false,
+    "releaseDate": null,
+    "videoCard": "Bode, Vandervort and Turcotte"
+  },
+  {
+    "computerId": 24,
+    "motherboard": "Divanoodle",
+    "hasWifi": true,
+    "hasLTE": true,
+    "releaseDate": "2014-10-29",
+    "videoCard": "Schuppe and Sons"
+  },
+  {
+    "computerId": 25,
+    "motherboard": "Zava",
+    "hasWifi": true,
+    "hasLTE": true,
+    "releaseDate": null,
+    "videoCard": "Trantow, Krajcik and Kreiger"
+  },
+  {
+    "computerId": 26,
+    "motherboard": "Zoombox",
+    "hasWifi": false,
+    "hasLTE": true,
+    "releaseDate": null,
+    "videoCard": "Anderson LLC"
+  },
+  {
+    "computerId": 27,
+    "motherboard": "Fatz",
+    "hasWifi": false,
+    "hasLTE": true,
+    "releaseDate": "2016-12-17",
+    "videoCard": "Bode-Bins"
+  },
+  {
+    "computerId": 28,
+    "motherboard": "Skippad",
+    "hasWifi": true,
+    "hasLTE": false,
+    "releaseDate": "2011-03-25",
+    "videoCard": "Mayer-Willms"
+  },
+  {
+    "computerId": 29,
+    "motherboard": "Chatterbridge",
+    "hasWifi": true,
+    "hasLTE": true,
+    "releaseDate": null,
+    "videoCard": "Bogisich-Hoppe"
+  },
+  {
+    "computerId": 30,
+    "motherboard": "Demimbu",
+    "hasWifi": true,
+    "hasLTE": true,
+    "releaseDate": null,
+    "videoCard": "Collins, Volkman and Goyette"
+  }
+]

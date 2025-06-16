@@ -1,0 +1,1 @@
+         6	 Sample Board_3    4   True   True       600.0000	    GeForce RTX 1060	1/10/2002 12:00:00 AM
