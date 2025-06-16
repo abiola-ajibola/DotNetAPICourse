@@ -179,7 +179,9 @@ namespace DotnetAPI.Controllers
         {
             string userIdSql = @"
                 SELECT UserId FROM TutorialAppSchema.Users WHERE UserId = '" +
-                User.FindFirst("userId")?.Value + "'";
+                // This user is inheritted from the base contoller. It represents the user from the httpContext
+                // not the User model
+                this.User.FindFirst("userId")?.Value + "'";
 
             int userId = _context.LoadSingle<int>(userIdSql);
 
