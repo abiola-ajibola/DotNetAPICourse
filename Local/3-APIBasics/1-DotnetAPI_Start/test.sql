@@ -102,3 +102,39 @@ WHERE Users.Email = 'vickybecks@aol.com';
   "gender": "Female"
 }
  */
+
+
+USE DotNetCourseDatabase
+
+CREATE TABLE TutorialAppSchema.Posts
+(
+    PostId INT IDENTITY(1,1),
+    UserId INT,
+    PostTitle NVARCHAR(255),
+    PostContent NVARCHAR(MAX),
+    PostCreated DATETIME,
+    PostUpdated DATETIME
+)
+
+CREATE CLUSTERED INDEX cix_Posts_UserId_PostId ON TutorialAppSchema.Posts(UserId, PostId)
+
+SELECT [PostId],
+    [UserId],
+    [PostTitle],
+    [PostContent],
+    [PostCreated],
+    [PostUpdated]
+FROM TutorialAppSchema.Posts;
+
+DECLARE @title NVARCHAR(255) = 'title';
+DECLARE @content NVARCHAR(MAX) = 'content';
+
+SELECT [PostId],
+    [UserId],
+    [PostTitle],
+    [PostContent],
+    [PostCreated],
+    [PostUpdated]
+FROM TutorialAppSchema.Posts
+WHERE PostTitle LIKE '%' + @title + '%'
+    OR PostContent LIKE '%' + @content + '%'
